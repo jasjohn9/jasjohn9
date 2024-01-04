@@ -1,8 +1,10 @@
+<p align="center">
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47v54sik49hknpnvkazaafmin6c12l27gdzajrx84k&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding" height="500" width="600" style="margin-top: 10px;">
+</p>
+
 # Hello there! 👋 I am Jasper John Raguin
 
  I am a passionate Computer Science Student based in San Pedro, Philippines. I am deeply passionate about exploring the vast and exciting world of technology. Here are a few things that drive my enthusiasm:
-
- <img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47v54sik49hknpnvkazaafmin6c12l27gdzajrx84k&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 ## 🔍 Areas of Interest
 
