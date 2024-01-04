@@ -125,4 +125,34 @@ To integrate changes from one branch into another.
 ```bash
 git merge feature-branch
 ```
+## 6. `git push`
+
+### Usage:
+This command sends the committed changes to the remote repository, making them available to others collaborating on the project.
+
+### When to use:
+Push commits from your local repository to a remote repository.
+
+### Parameters:
+- Remote repository and branch name.
+
+### Example:
+```bash
+git push origin main
+```
+## 7. `git log`
+
+### Usage:
+This command displays a history of commits, including commit messages, author, date, and commit hashes. Adding flags like --oneline provides a more concise log output.
+
+### When to use:
+View commit history.
+
+### Parameters:
+- Optional flags like --oneline, --author, etc.
+
+### Example:
+```bash
+git log --oneline
+```
 
