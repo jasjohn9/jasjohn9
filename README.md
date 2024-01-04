@@ -1,58 +1,126 @@
-# Your Project Name
+# Hello there! 👋 I am Jasper John Raguin
 
-[![Build Status](https://travis-ci.org/your-username/your-repository.svg?branch=master)](https://travis-ci.org/your-username/your-repository)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Issues](https://img.shields.io/github/issues/your-username/your-repository.svg)](https://github.com/your-username/your-repository/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/your-username/your-repository.svg)](https://github.com/your-username/your-repository/pulls)
+ I am a passionate Computer Science Student based in San Pedro, Philippines. I am deeply passionate about exploring the vast and exciting world of technology. Here are a few things that drive my enthusiasm:
 
-A brief description of your project goes here.
+ <img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47v54sik49hknpnvkazaafmin6c12l27gdzajrx84k&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-## Table of Contents
+## 🔍 Areas of Interest
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- **Software Development:** Creating efficient and elegant solutions through coding is my forte. I love diving into algorithmic challenges and building applications that make a positive impact.
 
-## Features
+- **Data Science:** I find joy in unraveling meaningful insights from data. Working on data-driven projects and employing machine learning techniques are areas I'm keen on exploring further.
 
-- List key features of your project here.
+- **Web Development:** Crafting beautiful and responsive web applications brings out my creative side. I enjoy working with modern web technologies to build seamless user experiences.
 
-## Installation
+- **Cybersecurity:** Ensuring the integrity and security of systems is a topic I'm actively delving into. I'm fascinated by ethical hacking and implementing measures to enhance digital security.
 
-1. Clone the repository:
+## 💻 Key Skills
 
-    ```bash
-    git clone https://github.com/your-username/your-repository.git
-    ```
+- **Programming Languages:** Proficient in C#, Python, and C++.
 
-2. Navigate into the project directory:
+- **Web Technologies:** Experience with HTML, CSS.
 
-    ```bash
-    cd your-repository
-    ```
+- **Problem Solving:** A strong foundation in algorithmic problem-solving and critical thinking.
 
-3. Install dependencies:
+## 🌐 Currently Learning
 
-    ```bash
-    npm install  # or any other command for your specific language or framework
-    ```
+I'm currently expanding my knowledge in:
 
-## Usage
+- Exploring advanced topics in machine learning.
+- Enhancing cybersecurity skills through hands-on projects.
+- Keeping up-to-date with the latest trends in web development.
 
-Explain how to use your project. Provide examples, code snippets, and screenshots if possible.
+## 📫 Let's Connect
 
-## Contributing
+Feel free to connect with me and share your thoughts on these exciting areas of computer science! You can find me on:
 
-Contributions are welcome! Please follow these guidelines:
+- **LinkedIn:** [Jasper John Raguin on LinkedIn](https://www.linkedin.com/in/jasper-john-raguin-542587281/)
+- **GitHub:** [jasjohn9](https://github.com/jasjohn9)
+- **Email:** raguinjasperjohn@gmail.com
 
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature-name`
-3. Make your changes and commit them: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Submit a pull request
+Looking forward to connecting with fellow tech enthusiasts and learning together!
 
-## License
+## Git Commands Cheat Sheet
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Welcome to the Git Commands Cheat Sheet – your quick reference guide to navigate the Git universe like a pro! 🚀
+
+## 1. `git clone`
+
+### Usage:
+Clone a repository into a new directory.
+
+### When to use:
+When you want to create a local copy of a remote repository for collaboration or personal use.
+
+### Parameters:
+- `<repository_url>`: The URL of the repository to clone.
+
+### Example:
+```bash
+git clone https://github.com/your-username/your-repository.git
+```
+
+## 2. `git branch`
+
+### Usage:
+List, create, or delete branches.
+
+### When to use:
+When managing different features, bug fixes, or experiments within your project.
+
+### Parameters:
+- `-a`: List both remote-tracking branches and local branches.
+- `-d <branch_name>`: Delete the specified branch.
+
+### Example:
+```bash
+git branch feature-branch  # Create a new branch
+git branch -d bug-fix      # Delete a branch
+```
+## 3. `git pull`
+
+### Usage:
+Fetch from and integrate with another repository or a local branch.
+
+### When to use:
+To update your local branch with changes from a remote repository.
+
+### Parameters:
+- `<remote>`: The name of the remote repository.
+- `<branch>`: The branch to pull from.
+
+### Example:
+```bash
+git pull origin main
+```
+## 4. `git commit`
+
+### Usage:
+Record changes to the repository.
+
+### When to use:
+After making changes to your files, commit them to save your work.
+
+### Parameters:
+- `-m "<commit_message>"`: Specify the commit message directly.
+
+### Example:
+```bash
+git commit -m "Add new feature"
+```
+## 5. `git merge`
+
+### Usage:
+Join two or more development histories together.
+
+### When to use:
+To integrate changes from one branch into another.
+
+### Parameters:
+- `<branch>`: The branch to merge into the current branch.
+
+### Example:
+```bash
+git merge feature-branch
+```
+
